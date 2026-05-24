@@ -1,1 +1,2 @@
 libgl1
+liblib2.0-0t64
